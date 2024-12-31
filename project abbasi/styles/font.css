@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Raleway';
+    src: url(../fonts/static/Raleway-Light.ttf);
+}
+@font-face {
+    font-family: 'Raleway-bold';
+    src: url(../fonts/static/Raleway-Bold.ttf);
+}
+@font-face {
+    font-family: 'IBMPlexMono';
+    src: url(../fonts/IBMPlexMono-Light.ttf);
+}
+@font-face {
+    font-family: 'IBMPlexMono-Bold';
+    src: url(../fonts/IBMPlexMono-Bold.ttf);
+}
